@@ -1,15 +1,16 @@
-Plugin Documentation
-####################
+Pyxu LDCT Reader
+################
 
-The documentation is written in reStructuredText and processed by Sphinx.
-
-See http://sphinx-doc.org/ for more information about Sphinx.
-
+This plugin provides a reader for open data format for CT projection data [DICOM-CT-PD]_.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
 
-   guide/index
-   api/index
+   api
+   example.ipynb
    references
+
+
+
+

@@ -1,4 +1,4 @@
 **References**
 ==============
 
-.. [Nesterov] Nesterov, Yurii Evgen'evich. "A method of solving a convex programming problem with convergence rate O(k^{2})." Doklady Akademii Nauk. Vol. 269. No. 3. Russian Academy of Sciences, 1983.
+.. [DICOM-CT-PD]  Chen, B., Duan, X., Yu, Z., Leng, S., Yu, L., & McCollough, C.H. (2015). Technical note: Development and validation of an open data format for CT projection data. Medical Physics, 42 (12), 6964
