@@ -58,7 +58,7 @@ Issues
 
 If you encounter any problems, please `file an issue`_ along with a detailed description.
 
-.. _Pyxu: https://github.com/matthieumeo/pyxu
+.. _Pyxu: https://github.com/pyxu-org/pyxu
 .. _contributing-guide: https://pyxu-org.github.io/fair/contribute.html
 .. _developer notes: https://pyxu-org.github.io/fair/dev_notes.html
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
@@ -68,7 +68,7 @@ If you encounter any problems, please `file an issue`_ along with a detailed des
 .. _GNU LGPL v3.0: http://www.gnu.org/licenses/lgpl-3.0.txt
 .. _Apache Software License 2.0: http://www.apache.org/licenses/LICENSE-2.0
 .. _Mozilla Public License 2.0: https://www.mozilla.org/media/MPL/2.0/index.txt
-.. _cookiecutter-pyxu: https://github.com/matthieumeo/cookiecutter-pyxu
+.. _cookiecutter-pyxu: https://github.com/pyxu-org/cookiecutter-pyxu
 
 .. _file an issue: https://github.com/EPFL-Center-for-Imaging/pyxu-ldct-reader/issues
 

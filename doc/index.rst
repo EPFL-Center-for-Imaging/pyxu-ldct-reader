@@ -7,10 +7,9 @@ This plugin provides a reader for open data format for CT projection data [DICOM
    :maxdepth: 2
    :hidden:
 
-   api
-   example.ipynb
+   api/index
+   examples/index
    references
-
 
 
 
