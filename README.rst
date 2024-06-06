@@ -13,9 +13,9 @@ pyxu-ldct-reader
 .. image:: https://codecov.io/gh/EPFL-Center-for-Imaging/pyxu-ldct-reader/branch/main/graph/badge.svg
    :target: https://codecov.io/gh/EPFL-Center-for-Imaging/pyxu-ldct-reader
    :alt: codecov
-.. image:: https://img.shields.io/endpoint?url=https://pyxu-org.github.io/fair/shields/pyxu-ldct-reader
-   :alt: Pyxu score
-   :target: https://pyxu-org.github.io/fair/score.html
+.. .. image:: https://img.shields.io/endpoint?url=https://pyxu-org.github.io/fair/shields/pyxu-ldct-reader
+..    :alt: Pyxu score
+..    :target: https://pyxu-org.github.io/fair/score.html
 
 Data loader that reads and parses clinical CT sinograms in the LDCT-and-Projection-data repository and map them to Pyxu's XRayTransform
 ---------------------------------------------------------------------------------------------------------------------------------------
